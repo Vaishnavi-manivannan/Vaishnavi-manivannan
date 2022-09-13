@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vaishnavi-manivannan
 - 👀 I’m interested in Salesforce development
-- 🌱 I’m currently learning Apex and Jave
+- 🌱 I’m currently learning Apex and Java
 - 💞️ I’m looking to collaborate on Salesforce development projects and mini projects on Java
 - 📫 How to reach me ... vaishnavimanivannan7@gmail.com
 
